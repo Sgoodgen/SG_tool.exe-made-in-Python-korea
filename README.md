@@ -8,5 +8,7 @@ This is a tool made by a 6th grader in elementary school. It is SG_tool with fun
 
 #app
 
+How to use: Write the white label Eddy's file, the dir or file to be deleted, the file you want to know information about, and click the button.
+
 ![스크린샷 2023-06-18 131537](https://github.com/Sgoodgen/SG_tool/assets/113218023/8da84fd1-49c9-4234-8686-efabac1322fa)
 
