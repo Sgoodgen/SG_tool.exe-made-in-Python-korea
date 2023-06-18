@@ -12,3 +12,8 @@ How to use: Write the white label Eddy's file, the dir or file to be deleted, th
 
 ![스크린샷 2023-06-18 131537](https://github.com/Sgoodgen/SG_tool/assets/113218023/8da84fd1-49c9-4234-8686-efabac1322fa)
 
+#ex)
+
+
+![스크린샷 2023-06-18 131619](https://github.com/Sgoodgen/SG_tool/assets/113218023/b1a2fb65-b0fb-49fd-919c-5ca836902ac0)
+
