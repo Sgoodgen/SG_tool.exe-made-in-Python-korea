@@ -1,6 +1,6 @@
 # SG_tool
 
-This is a tool made by a 6th grader in elementary school. It is SG_tool with functions such as delete, add, add dir, and info using os and gui in Python.
+This is a tool made by a 6th grade in elementary school. It is SG_tool with functions such as delete, add, add dir, and info using os and gui in Python.
 
 #How to convert from code to exe
 
